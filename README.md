@@ -4,7 +4,7 @@
 ------
 
 - NIED K-Net 強震モニタ
-
+- https://exptech.com.tw/api/v1/trem/NIED_Sindo
 
 ## 索引
 - [貢獻者](#貢獻者)
